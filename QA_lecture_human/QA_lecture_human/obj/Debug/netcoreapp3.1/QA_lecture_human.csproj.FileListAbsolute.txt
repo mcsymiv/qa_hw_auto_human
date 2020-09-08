@@ -1,0 +1,13 @@
+C:\Users\mcsymiv\source\repos\QA_lecture_human\QA_lecture_human\bin\Debug\netcoreapp3.1\QA_lecture_human.exe
+C:\Users\mcsymiv\source\repos\QA_lecture_human\QA_lecture_human\bin\Debug\netcoreapp3.1\QA_lecture_human.deps.json
+C:\Users\mcsymiv\source\repos\QA_lecture_human\QA_lecture_human\bin\Debug\netcoreapp3.1\QA_lecture_human.runtimeconfig.json
+C:\Users\mcsymiv\source\repos\QA_lecture_human\QA_lecture_human\bin\Debug\netcoreapp3.1\QA_lecture_human.runtimeconfig.dev.json
+C:\Users\mcsymiv\source\repos\QA_lecture_human\QA_lecture_human\bin\Debug\netcoreapp3.1\QA_lecture_human.dll
+C:\Users\mcsymiv\source\repos\QA_lecture_human\QA_lecture_human\bin\Debug\netcoreapp3.1\QA_lecture_human.pdb
+C:\Users\mcsymiv\source\repos\QA_lecture_human\QA_lecture_human\obj\Debug\netcoreapp3.1\QA_lecture_human.csprojAssemblyReference.cache
+C:\Users\mcsymiv\source\repos\QA_lecture_human\QA_lecture_human\obj\Debug\netcoreapp3.1\QA_lecture_human.AssemblyInfoInputs.cache
+C:\Users\mcsymiv\source\repos\QA_lecture_human\QA_lecture_human\obj\Debug\netcoreapp3.1\QA_lecture_human.AssemblyInfo.cs
+C:\Users\mcsymiv\source\repos\QA_lecture_human\QA_lecture_human\obj\Debug\netcoreapp3.1\QA_lecture_human.csproj.CoreCompileInputs.cache
+C:\Users\mcsymiv\source\repos\QA_lecture_human\QA_lecture_human\obj\Debug\netcoreapp3.1\QA_lecture_human.dll
+C:\Users\mcsymiv\source\repos\QA_lecture_human\QA_lecture_human\obj\Debug\netcoreapp3.1\QA_lecture_human.pdb
+C:\Users\mcsymiv\source\repos\QA_lecture_human\QA_lecture_human\obj\Debug\netcoreapp3.1\QA_lecture_human.genruntimeconfig.cache

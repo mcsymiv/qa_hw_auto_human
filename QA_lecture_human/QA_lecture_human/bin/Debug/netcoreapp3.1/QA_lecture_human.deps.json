@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "QA_lecture_human/1.0.0": {
+        "runtime": {
+          "QA_lecture_human.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QA_lecture_human/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
